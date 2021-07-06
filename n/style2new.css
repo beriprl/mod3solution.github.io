@@ -10,12 +10,12 @@
 
 .navbar-brand{
   font-size: 35px;
-  color: blue;
+  color: white;
   padding-left: 25px;
 }
 
 .navbar-brand:hover{
-	color: orange;
+	color: white;
 }
 
 .nav{
@@ -31,7 +31,7 @@
 }
 
 .navbar-toggle{
-	border: 2px solid white;
+	border: 2px pink;
 	margin-right: 25px;
 }
 
